@@ -1,0 +1,12 @@
+body{
+  background-color: #BADA55
+}
+
+
+li{
+  text-decoration: line-through;
+}
+
+.list-item{
+  display:inline;
+}
